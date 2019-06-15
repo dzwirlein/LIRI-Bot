@@ -32,11 +32,12 @@ axios.get(queryUrlOMDB).then(
     "Plot: " + response.data.Plot,
     "Actors: " + response.data.Actors,
     "\n--------------------------------\n"
-    ].join('\n\n');
+    ].join('\n');
+
+    console.log(movie)
 
     fs.appendFile("log.txt", movie, function(err) {
       if (err) throw err;
-      console.log(movie);
        })
    
 })
@@ -57,11 +58,12 @@ axios.get(queryUrlB).then(
             "\nVenue Location: " + response.data[i].venue.city + ", " + response.data[i].venue.country,
             "\nDate: " + date,
             "\n--------------------------------\n"
-        ].join("\n\n");
+        ].join("\n");
+
+        console.log(event);
       
         fs.appendFile("log.txt", event, function(err) {
           if (err) throw err;
-          console.log(event);
            })
       }
        
@@ -90,11 +92,11 @@ spotify.search({ type: 'track', query: songName }, function(err, data) {
         "\nPreview Song: " + songs[i].preview_url,
         "\nAlbum: " + songs[i].album.name,
         "\n--------------------------------\n"
-      ].join("\n\n");
+      ].join("\n");
     
+      console.log(artistObj);
   fs.appendFile("log.txt", artistObj, function(err) {
    if (err) throw err;
-   console.log(artistObj);
     })
   }
 

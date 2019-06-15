@@ -1,824 +1,382 @@
 Venue: King Baudouin Stadium
 
-
 Venue Location: Bruxelles, Belgium
 
-
 Date: 06-16-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Etihad Stadium
-
-
-Venue Location: Manchester, United Kingdom
-
-
-Date: 06-18-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Twickenham Stadium
-
-
-Venue Location: London, United Kingdom
-
-
-Date: 06-20-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Ullevi Restaurant & Conference
-
-
-Venue Location: Göteborg, Sweden
-
-
-Date: 07-09-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Olympiastadion
-
-
-Venue Location: Berlin, Germany
-
-
-Date: 07-06-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Telia Parken
-
-
-Venue Location: Copenhagen, Denmark
-
-
-Date: 07-11-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Granasen Arena
-
-
-Venue Location: Trondheim, Norway
-
-
-Date: 07-13-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: KANTOLAN TAPAHTUMAPUISTO
-
-
-Venue Location: Hameenlinna, Finland
-
-
-Date: 07-16-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Raadi lennuväli
-
-
-Venue Location: Tartu, Estonia
-
-
-Date: 07-18-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: The Luzhniki Stadium
-
-
-Venue Location: Moscow, Russia
-
-
-Date: 07-21-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: National Stadion Bukarest
-
-
-Venue Location: Bucharest, Romania
-
-
-Date: 08-14-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Letiště Praha Letňany
-
-
-Venue Location: Praha, Czech Republic
-
-
-Date: 08-18-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Ernst-Happel-Stadion
-
-
-Venue Location: Wien, Austria
-
-
-Date: 08-16-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: PGE Narodowy
-
-
-Venue Location: Warsaw, Poland
-
-
-Date: 08-21-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Olympiastadion
-
-
-Venue Location: Munchen, Germany
-
-
-Date: 08-23-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Maimarkt Gelände
-
-
-Venue Location: Mannheim, Germany
-
-
-Date: 08-25-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Chase Center
-
-
-Venue Location: San Francisco, United States
-
-
-Date: 09-06-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Chase Center
-
-
-Venue Location: San Francisco, United States
-
-
-Date: 09-08-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Marvel Stadium
-
-
-Venue Location: Docklands, Australia
-
-
-Date: 10-22-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Optus Stadium
-
-
-Venue Location: Burswood, Australia
-
-
-Date: 10-17-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Adelaide Oval
-
-
-Venue Location: North Adelaide, Australia
-
-
-Date: 10-20-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Kulturbesen
-
-
-Venue Location: Schramberg, Germany
-
-
-Date: 10-26-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Marvel Stadium
-
-
-Venue Location: Docklands, Australia
-
-
-Date: 10-24-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Mt Smart Stadium
-
-
-Venue Location: Auckland, New Zealand
-
-
-Date: 10-31-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Queensland Sport And Athletics Centre (QSAC)
-
-
-Venue Location: Brisbane, Australia
-
-
-Date: 10-29-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: Mt Smart Stadium
-
-
-Venue Location: Auckland, New Zealand
-
-
-Date: 11-02-2019
-
-
---------------------------------
-------------------------------------------------------------
-
-Venue: King Baudouin Stadium
-
-
-Venue Location: Bruxelles, Belgium
-
-
-Date: 06-16-2019
-
-
---------------------------------Venue: Etihad Stadium
-
-
-Venue Location: Manchester, United Kingdom
-
-
-Date: 06-18-2019
-
-
---------------------------------Venue: Twickenham Stadium
-
-
-Venue Location: London, United Kingdom
-
-
-Date: 06-20-2019
-
-
---------------------------------Venue: Ullevi Restaurant & Conference
-
-
-Venue Location: Göteborg, Sweden
-
-
-Date: 07-09-2019
-
-
---------------------------------Venue: Telia Parken
-
-
-Venue Location: Copenhagen, Denmark
-
-
-Date: 07-11-2019
-
-
---------------------------------Venue: Granasen Arena
-
-
-Venue Location: Trondheim, Norway
-
-
-Date: 07-13-2019
-
-
---------------------------------Venue: Olympiastadion
-
-
-Venue Location: Berlin, Germany
-
-
-Date: 07-06-2019
-
-
---------------------------------Venue: KANTOLAN TAPAHTUMAPUISTO
-
-
-Venue Location: Hameenlinna, Finland
-
-
-Date: 07-16-2019
-
-
---------------------------------Venue: National Stadion Bukarest
-
-
-Venue Location: Bucharest, Romania
-
-
-Date: 08-14-2019
-
-
---------------------------------Venue: Ernst-Happel-Stadion
-
-
-Venue Location: Wien, Austria
-
-
-Date: 08-16-2019
-
-
---------------------------------Venue: Raadi lennuväli
-
-
-Venue Location: Tartu, Estonia
-
-
-Date: 07-18-2019
-
-
---------------------------------Venue: Letiště Praha Letňany
-
-
-Venue Location: Praha, Czech Republic
-
-
-Date: 08-18-2019
-
-
---------------------------------Venue: Olympiastadion
-
-
-Venue Location: Munchen, Germany
-
-
-Date: 08-23-2019
-
-
---------------------------------Venue: Maimarkt Gelände
-
-
-Venue Location: Mannheim, Germany
-
-
-Date: 08-25-2019
-
-
---------------------------------Venue: Chase Center
-
-
-Venue Location: San Francisco, United States
-
-
-Date: 09-06-2019
-
-
---------------------------------Venue: Chase Center
-
-
-Venue Location: San Francisco, United States
-
-
-Date: 09-08-2019
-
-
---------------------------------Venue: Optus Stadium
-
-
-Venue Location: Burswood, Australia
-
-
-Date: 10-17-2019
-
-
---------------------------------Venue: The Luzhniki Stadium
-
-
-Venue Location: Moscow, Russia
-
-
-Date: 07-21-2019
-
-
---------------------------------Venue: Adelaide Oval
-
-
-Venue Location: North Adelaide, Australia
-
-
-Date: 10-20-2019
-
-
---------------------------------Venue: PGE Narodowy
-
-
-Venue Location: Warsaw, Poland
-
-
-Date: 08-21-2019
-
-
---------------------------------Venue: Marvel Stadium
-
-
-Venue Location: Docklands, Australia
-
-
-Date: 10-22-2019
-
-
---------------------------------Venue: Kulturbesen
-
-
-Venue Location: Schramberg, Germany
-
-
-Date: 10-26-2019
-
-
---------------------------------Venue: Marvel Stadium
-
-
-Venue Location: Docklands, Australia
-
-
-Date: 10-24-2019
-
-
---------------------------------Venue: Queensland Sport And Athletics Centre (QSAC)
-
-
-Venue Location: Brisbane, Australia
-
-
-Date: 10-29-2019
-
-
---------------------------------Venue: Mt Smart Stadium
-
-
-Venue Location: Auckland, New Zealand
-
-
-Date: 11-02-2019
-
-
---------------------------------Venue: Mt Smart Stadium
-
-
-Venue Location: Auckland, New Zealand
-
-
-Date: 10-31-2019
-
-
---------------------------------Venue: King Baudouin Stadium
-
-
-Venue Location: Bruxelles, Belgium
-
-
-Date: 06-16-2019
-
 
 --------------------------------
 Venue: Etihad Stadium
 
-
 Venue Location: Manchester, United Kingdom
 
-
 Date: 06-18-2019
-
 
 --------------------------------
 Venue: Twickenham Stadium
 
-
 Venue Location: London, United Kingdom
 
-
 Date: 06-20-2019
-
-
---------------------------------
-Venue: Ullevi Restaurant & Conference
-
-
-Venue Location: Göteborg, Sweden
-
-
-Date: 07-09-2019
-
 
 --------------------------------
 Venue: Olympiastadion
 
-
 Venue Location: Berlin, Germany
 
-
 Date: 07-06-2019
-
-
---------------------------------
-Venue: Granasen Arena
-
-
-Venue Location: Trondheim, Norway
-
-
-Date: 07-13-2019
-
-
---------------------------------
-Venue: KANTOLAN TAPAHTUMAPUISTO
-
-
-Venue Location: Hameenlinna, Finland
-
-
-Date: 07-16-2019
-
-
---------------------------------
-Venue: The Luzhniki Stadium
-
-
-Venue Location: Moscow, Russia
-
-
-Date: 07-21-2019
-
-
---------------------------------
-Venue: Raadi lennuväli
-
-
-Venue Location: Tartu, Estonia
-
-
-Date: 07-18-2019
-
-
---------------------------------
-Venue: National Stadion Bukarest
-
-
-Venue Location: Bucharest, Romania
-
-
-Date: 08-14-2019
-
 
 --------------------------------
 Venue: Telia Parken
 
-
 Venue Location: Copenhagen, Denmark
-
 
 Date: 07-11-2019
 
+--------------------------------
+Venue: Ullevi Restaurant & Conference
+
+Venue Location: Göteborg, Sweden
+
+Date: 07-09-2019
+
+--------------------------------
+Venue: Granasen Arena
+
+Venue Location: Trondheim, Norway
+
+Date: 07-13-2019
+
+--------------------------------
+Venue: KANTOLAN TAPAHTUMAPUISTO
+
+Venue Location: Hameenlinna, Finland
+
+Date: 07-16-2019
+
+--------------------------------
+Venue: Raadi lennuväli
+
+Venue Location: Tartu, Estonia
+
+Date: 07-18-2019
+
+--------------------------------
+Venue: The Luzhniki Stadium
+
+Venue Location: Moscow, Russia
+
+Date: 07-21-2019
+
+--------------------------------
+Venue: National Stadion Bukarest
+
+Venue Location: Bucharest, Romania
+
+Date: 08-14-2019
 
 --------------------------------
 Venue: Ernst-Happel-Stadion
 
-
 Venue Location: Wien, Austria
 
-
 Date: 08-16-2019
-
 
 --------------------------------
 Venue: Letiště Praha Letňany
 
-
 Venue Location: Praha, Czech Republic
 
-
 Date: 08-18-2019
-
-
---------------------------------
-Venue: PGE Narodowy
-
-
-Venue Location: Warsaw, Poland
-
-
-Date: 08-21-2019
-
 
 --------------------------------
 Venue: Olympiastadion
 
-
 Venue Location: Munchen, Germany
 
-
 Date: 08-23-2019
-
 
 --------------------------------
 Venue: Maimarkt Gelände
 
-
 Venue Location: Mannheim, Germany
-
 
 Date: 08-25-2019
 
+--------------------------------
+Venue: PGE Narodowy
+
+Venue Location: Warsaw, Poland
+
+Date: 08-21-2019
 
 --------------------------------
 Venue: Chase Center
 
-
 Venue Location: San Francisco, United States
-
 
 Date: 09-06-2019
 
-
 --------------------------------
 Venue: Chase Center
 
-
 Venue Location: San Francisco, United States
 
-
 Date: 09-08-2019
-
 
 --------------------------------
 Venue: Optus Stadium
 
-
 Venue Location: Burswood, Australia
 
-
 Date: 10-17-2019
-
 
 --------------------------------
 Venue: Adelaide Oval
 
-
 Venue Location: North Adelaide, Australia
 
-
 Date: 10-20-2019
-
 
 --------------------------------
 Venue: Marvel Stadium
 
-
 Venue Location: Docklands, Australia
-
 
 Date: 10-22-2019
 
+--------------------------------
+Venue: Marvel Stadium
+
+Venue Location: Docklands, Australia
+
+Date: 10-24-2019
 
 --------------------------------
 Venue: Kulturbesen
 
-
 Venue Location: Schramberg, Germany
 
-
 Date: 10-26-2019
-
-
---------------------------------
-Venue: Marvel Stadium
-
-
-Venue Location: Docklands, Australia
-
-
-Date: 10-24-2019
-
 
 --------------------------------
 Venue: Queensland Sport And Athletics Centre (QSAC)
 
-
 Venue Location: Brisbane, Australia
-
 
 Date: 10-29-2019
 
-
 --------------------------------
 Venue: Mt Smart Stadium
 
-
 Venue Location: Auckland, New Zealand
-
 
 Date: 10-31-2019
 
-
 --------------------------------
 Venue: Mt Smart Stadium
 
-
 Venue Location: Auckland, New Zealand
-
 
 Date: 11-02-2019
 
+--------------------------------
+Artist(s): Led Zeppelin
+
+Song Name: Kashmir - 1990 Remaster
+
+Preview Song: https://p.scdn.co/mp3-preview/13b2c47c98132f80a5ce12d8a4ceb192ba7a4345?cid=bc903d40768348eda19b5802ac646f24
+
+Album: Physical Graffiti
 
 --------------------------------
-Title: Forrest Gump
+Artist(s): Led Zeppelin
 
-Release Year: 1994
+Song Name: Kashmir - 2012 Remaster
 
-IMDB Rating: 8.8
+Preview Song: https://p.scdn.co/mp3-preview/f3ca68c9ceaa3435d5bd55c0199ba0b09b916cce?cid=bc903d40768348eda19b5802ac646f24
 
+Album: Physical Graffiti (Deluxe Edition)
+
+--------------------------------
+Artist(s): Midtown Stories
+
+Song Name: Kashmir
+
+Preview Song: https://p.scdn.co/mp3-preview/515377547f57756a6059ec4a5560c9d0ba282433?cid=bc903d40768348eda19b5802ac646f24
+
+Album: Worthwhile
+
+--------------------------------
+Artist(s): Led Zeppelin
+
+Song Name: Kashmir - 2007 Remaster
+
+Preview Song: https://p.scdn.co/mp3-preview/349a3d3f28c1480b100746b7472b606fda420dfd?cid=bc903d40768348eda19b5802ac646f24
+
+Album: Mothership (Remastered)
+
+--------------------------------
+Artist(s): Rockabye Baby!
+
+Song Name: Kashmir
+
+Preview Song: https://p.scdn.co/mp3-preview/aeee8073c14e372942285189e45ea7233a37caed?cid=bc903d40768348eda19b5802ac646f24
+
+Album: Lullaby Renditions of Led Zeppelin
+
+--------------------------------
+Artist(s): Led Zeppelin
+
+Song Name: Kashmir - Live: O2 Arena, London - December 10, 2007
+
+Preview Song: https://p.scdn.co/mp3-preview/2ed3c2bc9315b95ac0195121c9fde4038c4b5305?cid=bc903d40768348eda19b5802ac646f24
+
+Album: Celebration Day
+
+--------------------------------
+Artist(s): Mr. Käfer,DDob,Flitz&Suppe
+
+Song Name: Kashmir
+
+Preview Song: https://p.scdn.co/mp3-preview/4c98ea2363ed43f44d93e897a80a016fb9d65811?cid=bc903d40768348eda19b5802ac646f24
+
+Album: Kashmir
+
+--------------------------------
+Artist(s): Led Zeppelin
+
+Song Name: Kashmir - 2012 Remaster
+
+Preview Song: https://p.scdn.co/mp3-preview/f3ca68c9ceaa3435d5bd55c0199ba0b09b916cce?cid=bc903d40768348eda19b5802ac646f24
+
+Album: Led Zeppelin x Led Zeppelin
+
+--------------------------------
+Artist(s): Led Zeppelin
+
+Song Name: Kashmir - 2012 Remaster
+
+Preview Song: https://p.scdn.co/mp3-preview/f3ca68c9ceaa3435d5bd55c0199ba0b09b916cce?cid=bc903d40768348eda19b5802ac646f24
+
+Album: An Introduction To Led Zeppelin
+
+--------------------------------
+Artist(s): KSHMR
+
+Song Name: Kashmir
+
+Preview Song: null
+
+Album: Club Life, Vol. 4 - New York City
+
+--------------------------------
+Artist(s): Escala,Slash
+
+Song Name: Kashmir
+
+Preview Song: https://p.scdn.co/mp3-preview/23d1ddde5e7145a7d3a989d39d8d3c9830fdcea0?cid=bc903d40768348eda19b5802ac646f24
+
+Album: Escala
+
+--------------------------------
+Artist(s): Les Friction
+
+Song Name: Kashmir
+
+Preview Song: https://p.scdn.co/mp3-preview/ddf129a9faea2c6b7299d6a79bfa82b84d6d756d?cid=bc903d40768348eda19b5802ac646f24
+
+Album: Dark Matter
+
+--------------------------------
+Artist(s): Sunidhi Chauhan,Arijit Singh,Neeti Mohan
+
+Song Name: Kashmir Main Tu Kanyakumari
+
+Preview Song: https://p.scdn.co/mp3-preview/88fb8e2054a30cdd41f0f5422b8f26e03f362eac?cid=bc903d40768348eda19b5802ac646f24
+
+Album: Chennai Express
+
+--------------------------------
+Artist(s): London Philharmonic Orchestra,Peter Scholes
+
+Song Name: Stairway To Heaven
+
+Preview Song: null
+
+Album: Kashmir - Symphonic Led Zeppelin
+
+--------------------------------
+Artist(s): Adam Pascal,Larry Edoff
+
+Song Name: Kashmir
+
+Preview Song: https://p.scdn.co/mp3-preview/8a23a6cdeec997a18a73013f25ac519f42745016?cid=bc903d40768348eda19b5802ac646f24
+
+Album: The New Standards
+
+--------------------------------
+Artist(s): Led Zeppelin
+
+Song Name: Kashmir - 1990 Remaster
+
+Preview Song: https://p.scdn.co/mp3-preview/13b2c47c98132f80a5ce12d8a4ceb192ba7a4345?cid=bc903d40768348eda19b5802ac646f24
+
+Album: Physical Graffiti
+
+--------------------------------
+Artist(s): Led Zeppelin
+
+Song Name: Driving Through Kashmir - Kashmir Rough Orchestra Mix
+
+Preview Song: https://p.scdn.co/mp3-preview/ac8cc8ecfe527ac02aa93a3971ed13612b7c1a73?cid=bc903d40768348eda19b5802ac646f24
+
+Album: Physical Graffiti (Deluxe Edition)
+
+--------------------------------
+Artist(s): Lorne Balfe
+
+Song Name: Kashmir
+
+Preview Song: https://p.scdn.co/mp3-preview/5d9c4fbf12dc7c19994dde7f19e172d455505114?cid=bc903d40768348eda19b5802ac646f24
+
+Album: Mission: Impossible - Fallout (Music from the Motion Picture)
+
+--------------------------------
+Artist(s): Cesare Cremonini
+
+Song Name: Kashmir-Kashmir
+
+Preview Song: null
+
+Album: Possibili Scenari
+
+--------------------------------
+Artist(s): The Yellow Diary
+
+Song Name: Kashmir
+
+Preview Song: https://p.scdn.co/mp3-preview/8ccd50526561cf40be7a739af130645e2f9219c7?cid=bc903d40768348eda19b5802ac646f24
+
+Album: Marz
+
+--------------------------------
+Title: Interstellar
+Release Year: 2014
+IMDB Rating: 8.6
 Rotten Tomatoes: 72%
-
-Country Produced: USA
-
+Country Produced: USA, UK, Canada
 Language: English
+Plot: A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+Actors: Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow
 
-Plot: The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.
-
-Actors: Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
-
+--------------------------------
+Title: Good Will Hunting
+Release Year: 1997
+IMDB Rating: 8.3
+Rotten Tomatoes: 97%
+Country Produced: USA
+Language: English
+Plot: Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.
+Actors: Matt Damon, Ben Affleck, Stellan Skarsgård, John Mighton
 
 --------------------------------
