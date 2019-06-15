@@ -1,0 +1,824 @@
+Venue: King Baudouin Stadium
+
+
+Venue Location: Bruxelles, Belgium
+
+
+Date: 06-16-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Etihad Stadium
+
+
+Venue Location: Manchester, United Kingdom
+
+
+Date: 06-18-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Twickenham Stadium
+
+
+Venue Location: London, United Kingdom
+
+
+Date: 06-20-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Ullevi Restaurant & Conference
+
+
+Venue Location: Göteborg, Sweden
+
+
+Date: 07-09-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Olympiastadion
+
+
+Venue Location: Berlin, Germany
+
+
+Date: 07-06-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Telia Parken
+
+
+Venue Location: Copenhagen, Denmark
+
+
+Date: 07-11-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Granasen Arena
+
+
+Venue Location: Trondheim, Norway
+
+
+Date: 07-13-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: KANTOLAN TAPAHTUMAPUISTO
+
+
+Venue Location: Hameenlinna, Finland
+
+
+Date: 07-16-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Raadi lennuväli
+
+
+Venue Location: Tartu, Estonia
+
+
+Date: 07-18-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: The Luzhniki Stadium
+
+
+Venue Location: Moscow, Russia
+
+
+Date: 07-21-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: National Stadion Bukarest
+
+
+Venue Location: Bucharest, Romania
+
+
+Date: 08-14-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Letiště Praha Letňany
+
+
+Venue Location: Praha, Czech Republic
+
+
+Date: 08-18-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Ernst-Happel-Stadion
+
+
+Venue Location: Wien, Austria
+
+
+Date: 08-16-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: PGE Narodowy
+
+
+Venue Location: Warsaw, Poland
+
+
+Date: 08-21-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Olympiastadion
+
+
+Venue Location: Munchen, Germany
+
+
+Date: 08-23-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Maimarkt Gelände
+
+
+Venue Location: Mannheim, Germany
+
+
+Date: 08-25-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Chase Center
+
+
+Venue Location: San Francisco, United States
+
+
+Date: 09-06-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Chase Center
+
+
+Venue Location: San Francisco, United States
+
+
+Date: 09-08-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Marvel Stadium
+
+
+Venue Location: Docklands, Australia
+
+
+Date: 10-22-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Optus Stadium
+
+
+Venue Location: Burswood, Australia
+
+
+Date: 10-17-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Adelaide Oval
+
+
+Venue Location: North Adelaide, Australia
+
+
+Date: 10-20-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Kulturbesen
+
+
+Venue Location: Schramberg, Germany
+
+
+Date: 10-26-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Marvel Stadium
+
+
+Venue Location: Docklands, Australia
+
+
+Date: 10-24-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Mt Smart Stadium
+
+
+Venue Location: Auckland, New Zealand
+
+
+Date: 10-31-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Queensland Sport And Athletics Centre (QSAC)
+
+
+Venue Location: Brisbane, Australia
+
+
+Date: 10-29-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: Mt Smart Stadium
+
+
+Venue Location: Auckland, New Zealand
+
+
+Date: 11-02-2019
+
+
+--------------------------------
+------------------------------------------------------------
+
+Venue: King Baudouin Stadium
+
+
+Venue Location: Bruxelles, Belgium
+
+
+Date: 06-16-2019
+
+
+--------------------------------Venue: Etihad Stadium
+
+
+Venue Location: Manchester, United Kingdom
+
+
+Date: 06-18-2019
+
+
+--------------------------------Venue: Twickenham Stadium
+
+
+Venue Location: London, United Kingdom
+
+
+Date: 06-20-2019
+
+
+--------------------------------Venue: Ullevi Restaurant & Conference
+
+
+Venue Location: Göteborg, Sweden
+
+
+Date: 07-09-2019
+
+
+--------------------------------Venue: Telia Parken
+
+
+Venue Location: Copenhagen, Denmark
+
+
+Date: 07-11-2019
+
+
+--------------------------------Venue: Granasen Arena
+
+
+Venue Location: Trondheim, Norway
+
+
+Date: 07-13-2019
+
+
+--------------------------------Venue: Olympiastadion
+
+
+Venue Location: Berlin, Germany
+
+
+Date: 07-06-2019
+
+
+--------------------------------Venue: KANTOLAN TAPAHTUMAPUISTO
+
+
+Venue Location: Hameenlinna, Finland
+
+
+Date: 07-16-2019
+
+
+--------------------------------Venue: National Stadion Bukarest
+
+
+Venue Location: Bucharest, Romania
+
+
+Date: 08-14-2019
+
+
+--------------------------------Venue: Ernst-Happel-Stadion
+
+
+Venue Location: Wien, Austria
+
+
+Date: 08-16-2019
+
+
+--------------------------------Venue: Raadi lennuväli
+
+
+Venue Location: Tartu, Estonia
+
+
+Date: 07-18-2019
+
+
+--------------------------------Venue: Letiště Praha Letňany
+
+
+Venue Location: Praha, Czech Republic
+
+
+Date: 08-18-2019
+
+
+--------------------------------Venue: Olympiastadion
+
+
+Venue Location: Munchen, Germany
+
+
+Date: 08-23-2019
+
+
+--------------------------------Venue: Maimarkt Gelände
+
+
+Venue Location: Mannheim, Germany
+
+
+Date: 08-25-2019
+
+
+--------------------------------Venue: Chase Center
+
+
+Venue Location: San Francisco, United States
+
+
+Date: 09-06-2019
+
+
+--------------------------------Venue: Chase Center
+
+
+Venue Location: San Francisco, United States
+
+
+Date: 09-08-2019
+
+
+--------------------------------Venue: Optus Stadium
+
+
+Venue Location: Burswood, Australia
+
+
+Date: 10-17-2019
+
+
+--------------------------------Venue: The Luzhniki Stadium
+
+
+Venue Location: Moscow, Russia
+
+
+Date: 07-21-2019
+
+
+--------------------------------Venue: Adelaide Oval
+
+
+Venue Location: North Adelaide, Australia
+
+
+Date: 10-20-2019
+
+
+--------------------------------Venue: PGE Narodowy
+
+
+Venue Location: Warsaw, Poland
+
+
+Date: 08-21-2019
+
+
+--------------------------------Venue: Marvel Stadium
+
+
+Venue Location: Docklands, Australia
+
+
+Date: 10-22-2019
+
+
+--------------------------------Venue: Kulturbesen
+
+
+Venue Location: Schramberg, Germany
+
+
+Date: 10-26-2019
+
+
+--------------------------------Venue: Marvel Stadium
+
+
+Venue Location: Docklands, Australia
+
+
+Date: 10-24-2019
+
+
+--------------------------------Venue: Queensland Sport And Athletics Centre (QSAC)
+
+
+Venue Location: Brisbane, Australia
+
+
+Date: 10-29-2019
+
+
+--------------------------------Venue: Mt Smart Stadium
+
+
+Venue Location: Auckland, New Zealand
+
+
+Date: 11-02-2019
+
+
+--------------------------------Venue: Mt Smart Stadium
+
+
+Venue Location: Auckland, New Zealand
+
+
+Date: 10-31-2019
+
+
+--------------------------------Venue: King Baudouin Stadium
+
+
+Venue Location: Bruxelles, Belgium
+
+
+Date: 06-16-2019
+
+
+--------------------------------
+Venue: Etihad Stadium
+
+
+Venue Location: Manchester, United Kingdom
+
+
+Date: 06-18-2019
+
+
+--------------------------------
+Venue: Twickenham Stadium
+
+
+Venue Location: London, United Kingdom
+
+
+Date: 06-20-2019
+
+
+--------------------------------
+Venue: Ullevi Restaurant & Conference
+
+
+Venue Location: Göteborg, Sweden
+
+
+Date: 07-09-2019
+
+
+--------------------------------
+Venue: Olympiastadion
+
+
+Venue Location: Berlin, Germany
+
+
+Date: 07-06-2019
+
+
+--------------------------------
+Venue: Granasen Arena
+
+
+Venue Location: Trondheim, Norway
+
+
+Date: 07-13-2019
+
+
+--------------------------------
+Venue: KANTOLAN TAPAHTUMAPUISTO
+
+
+Venue Location: Hameenlinna, Finland
+
+
+Date: 07-16-2019
+
+
+--------------------------------
+Venue: The Luzhniki Stadium
+
+
+Venue Location: Moscow, Russia
+
+
+Date: 07-21-2019
+
+
+--------------------------------
+Venue: Raadi lennuväli
+
+
+Venue Location: Tartu, Estonia
+
+
+Date: 07-18-2019
+
+
+--------------------------------
+Venue: National Stadion Bukarest
+
+
+Venue Location: Bucharest, Romania
+
+
+Date: 08-14-2019
+
+
+--------------------------------
+Venue: Telia Parken
+
+
+Venue Location: Copenhagen, Denmark
+
+
+Date: 07-11-2019
+
+
+--------------------------------
+Venue: Ernst-Happel-Stadion
+
+
+Venue Location: Wien, Austria
+
+
+Date: 08-16-2019
+
+
+--------------------------------
+Venue: Letiště Praha Letňany
+
+
+Venue Location: Praha, Czech Republic
+
+
+Date: 08-18-2019
+
+
+--------------------------------
+Venue: PGE Narodowy
+
+
+Venue Location: Warsaw, Poland
+
+
+Date: 08-21-2019
+
+
+--------------------------------
+Venue: Olympiastadion
+
+
+Venue Location: Munchen, Germany
+
+
+Date: 08-23-2019
+
+
+--------------------------------
+Venue: Maimarkt Gelände
+
+
+Venue Location: Mannheim, Germany
+
+
+Date: 08-25-2019
+
+
+--------------------------------
+Venue: Chase Center
+
+
+Venue Location: San Francisco, United States
+
+
+Date: 09-06-2019
+
+
+--------------------------------
+Venue: Chase Center
+
+
+Venue Location: San Francisco, United States
+
+
+Date: 09-08-2019
+
+
+--------------------------------
+Venue: Optus Stadium
+
+
+Venue Location: Burswood, Australia
+
+
+Date: 10-17-2019
+
+
+--------------------------------
+Venue: Adelaide Oval
+
+
+Venue Location: North Adelaide, Australia
+
+
+Date: 10-20-2019
+
+
+--------------------------------
+Venue: Marvel Stadium
+
+
+Venue Location: Docklands, Australia
+
+
+Date: 10-22-2019
+
+
+--------------------------------
+Venue: Kulturbesen
+
+
+Venue Location: Schramberg, Germany
+
+
+Date: 10-26-2019
+
+
+--------------------------------
+Venue: Marvel Stadium
+
+
+Venue Location: Docklands, Australia
+
+
+Date: 10-24-2019
+
+
+--------------------------------
+Venue: Queensland Sport And Athletics Centre (QSAC)
+
+
+Venue Location: Brisbane, Australia
+
+
+Date: 10-29-2019
+
+
+--------------------------------
+Venue: Mt Smart Stadium
+
+
+Venue Location: Auckland, New Zealand
+
+
+Date: 10-31-2019
+
+
+--------------------------------
+Venue: Mt Smart Stadium
+
+
+Venue Location: Auckland, New Zealand
+
+
+Date: 11-02-2019
+
+
+--------------------------------
+Title: Forrest Gump
+
+Release Year: 1994
+
+IMDB Rating: 8.8
+
+Rotten Tomatoes: 72%
+
+Country Produced: USA
+
+Language: English
+
+Plot: The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.
+
+Actors: Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
+
+
+--------------------------------
