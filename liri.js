@@ -95,10 +95,11 @@ spotify.search({ type: 'track', query: songName }, function(err, data) {
       ].join("\n");
     
       console.log(artistObj);
-  fs.appendFile("log.txt", artistObj, function(err) {
-   if (err) throw err;
-    })
-  }
+      
+    fs.appendFile("log.txt", artistObj, function(err) {
+     if (err) throw err;
+      })
+   }
 
   });
 
